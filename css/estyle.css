@@ -1,6 +1,12 @@
-.contenedor{
-    display: flex;
-    align-items: center;
-    
+body{
+    text-align: center;
 
+}
+
+.contenedor{
+    padding: 1em;
+    width: 70%;
+    text-align: center;
+    border: 1px solid #000;
+    margin: 0 auto;
 }
